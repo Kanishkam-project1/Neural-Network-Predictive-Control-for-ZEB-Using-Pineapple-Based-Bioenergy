@@ -1,0 +1,2 @@
+# Neural-Network-Predictive-Control-for-ZEB-Using-Pineapple-Based-Bioenergy
+This project develops an intelligent energy management system . Pineapple waste is used as a supplementary renewable energy source, while solar power and battery storage ensure continuous energy supply. A neural network, developed using MATLAB, predicts energy demand and selects the optimal power source a system is simulated using Wokwi.
